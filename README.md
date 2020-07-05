@@ -1,4 +1,4 @@
-# shermisaurus/ama
+# shermix/ama
 
 A repository to ask [@shermisaurus](https://twitter.com/shermisaurus) anything.
 
